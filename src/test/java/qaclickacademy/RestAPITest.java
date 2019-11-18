@@ -10,11 +10,17 @@ public class RestAPITest {
 		System.out.println("postJira");
 		System.out.println("postJira123_Gitchanges");
 		System.out.println("postJira123_GIt");
+
 	}
 	@Test
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		
+		//GIT changes
+		System.out.println("deleteTwitter1");
+		System.out.println("deleteTwitter2");
+		System.out.println("deleteTwitter3");
 	}
 
 }
