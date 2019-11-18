@@ -22,5 +22,13 @@ public class RestAPITest {
 		System.out.println("deleteTwitter2");
 		System.out.println("deleteTwitter3");
 	}
+	//GIT develop branch changes
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("deleteTwitter");
+	
+	}
+
 
 }
